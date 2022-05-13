@@ -1,0 +1,19 @@
+a{
+    /* It help in removing underline from the text f anchor tag */
+    outline: none;
+    text-decoration: none;
+}
+
+/* a {
+    outline: none;
+    text-decoration: none;
+    padding: 2px 1px 0;
+  }
+  
+  a:link {
+    color: #265301;
+  }
+*/
+  a:visited {
+    color: #7b7d0d;
+  } 
