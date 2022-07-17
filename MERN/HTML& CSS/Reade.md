@@ -1,1 +1,0 @@
-A.classname(Combine the cass selector):-   
